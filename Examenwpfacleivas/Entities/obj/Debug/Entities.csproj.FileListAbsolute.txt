@@ -1,0 +1,44 @@
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Entities.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Entities.pdb
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Lib.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Newtonsoft.Json.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Lib.pdb
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Newtonsoft.Json.xml
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Entities.dll
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Entities.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Lib.dll
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Lib.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.dll
+C:\Repositorios\progii2t1is\DemoWPF4\Entities\obj\Debug\Entities.pdb
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\bin\Debug\Entities.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\bin\Debug\Entities.pdb
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\bin\Debug\Lib.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\bin\Debug\Lib.pdb
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\obj\Debug\Entities.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Entities\obj\Debug\Entities.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\bin\Debug\Entities.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\bin\Debug\Entities.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\bin\Debug\Lib.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\bin\Debug\Lib.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\obj\Debug\Entities.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Entities\obj\Debug\Entities.pdb

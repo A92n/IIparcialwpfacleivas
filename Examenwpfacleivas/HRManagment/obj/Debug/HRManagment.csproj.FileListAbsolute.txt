@@ -1,0 +1,138 @@
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\HRManagment.exe.config
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\HRManagment.exe
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\HRManagment.pdb
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Entities.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Lib.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Newtonsoft.Json.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Entities.pdb
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Lib.pdb
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Newtonsoft.Json.xml
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.csprojAssemblyReference.cache
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonForm.g.cs
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonList.g.cs
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\Windows\MainWindow.g.cs
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\App.g.cs
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment_MarkupCompile.cache
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment_MarkupCompile.lref
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonForm.baml
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonList.baml
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\Windows\MainWindow.baml
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.g.resources
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.Properties.Resources.resources
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.GenerateResource.cache
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.CoreCompileInputs.cache
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.CopyComplete
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.exe
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\HRManagment.exe.config
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\HRManagment.exe
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\HRManagment.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Entities.dll
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Lib.dll
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Entities.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Lib.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.AssemblyReference.cache
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonForm.g.cs
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonList.g.cs
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\SettingsDialog.g.cs
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\App.g.cs
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment_MarkupCompile.cache
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment_MarkupCompile.lref
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonForm.baml
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonList.baml
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\SettingsDialog.baml
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\Views\Windows\MainWindow.baml
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.g.resources
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.Properties.Resources.resources
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.GenerateResource.cache
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.CoreCompileInputs.cache
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.CopyComplete
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.exe
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\obj\Debug\HRManagment.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\System.Security.AccessControl.dll
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\System.Security.Permissions.dll
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\System.Security.Principal.Windows.dll
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\System.Security.AccessControl.xml
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\System.Security.Permissions.xml
+C:\Repositorios\progii2t1is\DemoWPF4\HRManagment\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\HRManagment.exe.config
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\HRManagment.exe
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\HRManagment.pdb
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\Entities.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\Lib.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\System.Security.Permissions.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\Entities.pdb
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\Lib.pdb
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\System.Security.Permissions.xml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment.csprojAssemblyReference.cache
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonForm.g.cs
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonList.g.cs
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\SettingsDialog.g.cs
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\App.g.cs
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment_MarkupCompile.cache
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment_MarkupCompile.lref
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonForm.baml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonList.baml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\SettingsDialog.baml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment.g.resources
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment.Properties.Resources.resources
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.GenerateResource.cache
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.CoreCompileInputs.cache
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.CopyComplete
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment.exe
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\HRManagment\obj\Debug\HRManagment.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\HRManagment.exe.config
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\HRManagment.exe
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\HRManagment.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\Entities.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\Lib.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\System.Security.Permissions.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\Entities.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\Lib.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\System.Security.Permissions.xml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment.csprojAssemblyReference.cache
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonForm.g.cs
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonList.g.cs
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\Prueba.g.cs
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\App.g.cs
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment_MarkupCompile.cache
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment_MarkupCompile.lref
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonForm.baml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\PersonList.baml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\Views\UserControls\Prueba.baml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment.g.resources
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment.Properties.Resources.resources
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.GenerateResource.cache
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.CoreCompileInputs.cache
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment.csproj.CopyComplete
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment.exe
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\HRManagment\obj\Debug\HRManagment.pdb

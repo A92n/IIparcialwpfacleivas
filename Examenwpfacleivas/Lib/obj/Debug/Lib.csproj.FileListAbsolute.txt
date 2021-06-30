@@ -1,0 +1,36 @@
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\bin\Debug\Lib.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\bin\Debug\Lib.pdb
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\bin\Debug\Newtonsoft.Json.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\bin\Debug\Newtonsoft.Json.xml
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.csproj.CopyComplete
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.dll
+D:\ProgII2021IS2T1\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\bin\Debug\Lib.dll
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\bin\Debug\Lib.pdb
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.csproj.CopyComplete
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.dll
+C:\Repositorios\progii2t1is\DemoWPF4\Lib\obj\Debug\Lib.pdb
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\bin\Debug\Lib.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\bin\Debug\Lib.pdb
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\obj\Debug\Lib.csproj.CopyComplete
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\obj\Debug\Lib.dll
+C:\Users\Amy\Downloads\Prog2\Repositorio\Clase\v24-6\DemoWPF4\Lib\obj\Debug\Lib.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\bin\Debug\Lib.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\bin\Debug\Lib.pdb
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\obj\Debug\Lib.csproj.CopyComplete
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\obj\Debug\Lib.dll
+C:\Users\Amy\Downloads\Prog2\Visual studio\DemoWPF4\Lib\obj\Debug\Lib.pdb
